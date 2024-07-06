@@ -1,7 +1,23 @@
 # 💫 About Me:
-<br> 🔭 Currently working on Front-End and Back-End projects.<br> 🌱 Learning technologies like JavaScript, React, and Node.js.<br> 👯 Looking to collaborate on open-source projects.<br> ⚡ Fun fact: I love staying updated with the latest programming trends while listening to nice music.<br>
+### 🧚🏼 Growing at Factoria F5
+
+Hi! I'm [Your Name], a student at Factoria F5 and a proud member of Femcoders BCN. I'm passionate about the world of programming and constantly exploring new technologies.
+
+ 🔭 Currently working on Front-End and Back-End projects.
+ 
+ 🌱 Acquiring skills in technologies like JavaScript, React, and Node.js.
+ 
+ 👯 Looking to collaborate on open-source projects.
+ 
+ ⚡ Fun fact: I love staying updated with the latest programming trends while listening to nice music.
+
+
 
 <div><img src="https://media2.giphy.com/media/3ohhwEBrUKal8ebBni/giphy.gif?cid=5a38a5a2x273mp3nacq1zyph8jh519qhtz4t5uzvkfasfqno&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" style="border:0;height:225px;width:300px"/>
+
+### Connect with Me
+[LinkedIn](https://www.linkedin.com/in/shailagonzalezcarrero/) 
+
 
 
 ## 🌐 Socials:
