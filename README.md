@@ -1,7 +1,8 @@
 # 💫 About Me:
 ### 🧚🏼 Growing at Factoria F5
 
-Hi! I'm [Your Name], a student at Factoria F5 and a proud member of Femcoders BCN. I'm passionate about the world of programming and constantly exploring new technologies.
+Hi! I'm Shailand, a student at **Factoria F5** and a proud member of **Femcoders BCN**. 
+I'm passionate about the world of programming and constantly exploring new technologies.
 
  🔭 Currently working on Front-End and Back-End projects.
  
