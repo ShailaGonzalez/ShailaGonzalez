@@ -41,5 +41,5 @@ I'm passionate about the world of programming and constantly exploring new techn
   
 [![](https://visitcount.itsvg.in/api?id=ShailaGonzalez&icon=7&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 🍱 Buy me a sushi platter 😘
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shailagonzalezcarrero@gmail.com) 
