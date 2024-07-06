@@ -16,13 +16,12 @@ I'm passionate about the world of programming and constantly exploring new techn
 
 <div><img src="https://media2.giphy.com/media/3ohhwEBrUKal8ebBni/giphy.gif?cid=5a38a5a2x273mp3nacq1zyph8jh519qhtz4t5uzvkfasfqno&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" style="border:0;height:225px;width:300px"/>
 
-### Connect with Me
-[LinkedIn](https://www.linkedin.com/in/shailagonzalezcarrero/) 
 
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/499646935204888576) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shailagonzalezcarrero/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/499646935204888576)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailagonzalezcarrero/) 
 
 
 # 📊 GitHub Stats:
