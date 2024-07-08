@@ -6,7 +6,7 @@ I'm passionate about the world of programming and constantly exploring new techn
 
  🔭 Currently working on Front-End and Back-End projects.
  
- 🌱 Acquiring skills in technologies like JavaScript, React, and Node.js.
+ 🌱 Acquiring skills in technologies like JavaScript, React, and Node.js, and etc, etc..
  
  👯 Looking to collaborate on open-source projects.
  
